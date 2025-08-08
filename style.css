@@ -507,7 +507,7 @@ footer {
 
     @media (max-width: 768px) {
         html {
-            font-size: 90%;
+            font-size: 65%;
         }
         .header {
             padding: 1.5rem 5%;
